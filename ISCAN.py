@@ -30,7 +30,7 @@ banner += " |  |    |   (----`|  ,----'   /  ^  \    |   \|  |\n"
 banner += " |  |     \   \    |  |       /  /_\  \   |  . `  |\n"
 banner += " |  | .----)   |   |  `----. /  _____  \  |  |\   |\n"
 banner += " |__| |_______/     \______|/__/     \__\ |__| \__| v1.0\n\n"
-banner += "                                  Creado por oXmars\n"
+banner += "                                  Creado por c4rta\n"
 
 
 # inputs
