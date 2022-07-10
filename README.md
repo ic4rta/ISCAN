@@ -1,11 +1,11 @@
 # ISCAN
 Script en python para information gathering a Webs
 # Uso
-pip install -r requirements.txt
-
 git clone https://github.com/oXmars/ISCAN.git
 
 cd ISCAN
+
+pip install -r requirements.txt
 
 chmod 777 ISCAN.py
 
